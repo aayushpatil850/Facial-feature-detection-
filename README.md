@@ -1,5 +1,5 @@
 # Facial-feature-detection-
-Here's a well-organized README file in markdown format for your GitHub project:
+Here's a well-organized README file for my  project:
 
 ---
 
